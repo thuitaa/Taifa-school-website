@@ -1,0 +1,27 @@
+button {
+    width: 10rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    color: blanchedalmond;
+    background-color: blue;
+    font-weight: bold;
+    font-size: medium;
+}
+
+button :hover {
+    color: blue;
+    background-color: blanchedalmond;
+    cursor: pointer;
+    width: 10rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    font-weight: bold;
+    font-size: medium;
+}
+img {
+    border: solid;
+}
+
+h2 {
+    text-decoration: underline;
+}

@@ -1,0 +1,35 @@
+.parent {
+    border: 3px solid gold;
+    height: 70vh;
+    width: auto;
+}
+
+.left {
+    float: left;
+    border: 2px solid darkred;
+    width: 46%;
+
+}
+
+.right {
+    float: right;
+    width: 48%;
+    border: 2px solid darkred;
+
+}
+.right button {
+    width: 13rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    color: azure;
+    background-color: blue;
+    font-size: 2rem;
+    font-weight: bold;
+    border-radius: 0.5rem;
+}
+
+.right button:hover {
+    color: blue ;
+    background-color: azure;
+    cursor: pointer;
+}
